@@ -16,3 +16,6 @@ https://www.datacamp.com/courses/introduction-to-git-for-data-science?utm_medium
 
 
 cs 299 machine learning standford ml course 
+
+
+this is the branch 
